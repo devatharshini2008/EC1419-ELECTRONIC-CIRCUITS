@@ -4,16 +4,9 @@
 <img width="811" height="708" alt="image" src="https://github.com/user-attachments/assets/e0caa2dd-cc57-4642-987f-53e4f8f78903" />
 
 
-## ATTACH THE CORRECT CIRCUIT
-| Parameter                                | Value        |
-| ---------------------------------------- | ------------ |
-| **Theoretical Frequency of Oscillation** | **1 kHz**    |
-| **Practical Frequency of Oscillation**   | **0.98 kHz** |
+## ATTACH THE CORRECT CIRCUIT AND GRAPH
+<img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/9a085bec-4e32-42e1-918c-56235438a4d8" />
 
-
-## GRAPHS
-
-![e2](https://github.com/user-attachments/assets/208b1f5a-80a5-48b7-a486-064ea4631b17)
 
 
 
