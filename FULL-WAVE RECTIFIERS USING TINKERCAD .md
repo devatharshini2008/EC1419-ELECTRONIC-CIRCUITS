@@ -1,4 +1,3 @@
-
 <img width="882" height="720" alt="image" src="https://github.com/user-attachments/assets/c3529be3-8921-4560-9828-e64489a9e0fe" />
 <img width="386" height="342" alt="image" src="https://github.com/user-attachments/assets/f5dfaefa-ffbe-4b2b-a06c-f26e75f87096" />
 <img width="727" height="500" alt="image" src="https://github.com/user-attachments/assets/87e0de1d-b37c-4f12-ab6e-55a24b43fb41" />
@@ -6,7 +5,7 @@
 
 
 ## TINKER CAD CIRCUIT DIAGRAM
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/eb55ec30-dfa8-4417-b364-49bf2b591a0a" />
+<img width="1280" height="816" alt="image" src="https://github.com/user-attachments/assets/8425b708-aba4-4a97-8221-a52cfe685dec" />
 
 
 <img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
